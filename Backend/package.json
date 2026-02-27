@@ -1,0 +1,23 @@
+{
+    "name": "skew",
+    "version": "1.0.0",
+    "description": "intro to backend",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Kiruicompyu/Backend-with-Express.git"
+    },
+    "author": "Kirui",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Kiruicompyu/Backend-with-Express/issues"
+    },
+    "homepage": "https://github.com/Kiruicompyu/Backend-with-Express#readme",
+    "dependencies": {
+        "express": "^5.2.1"
+    }
+}
